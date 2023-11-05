@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085771526051",
+    "project_id": "bamx-fbae2",
+    "storage_bucket": "bamx-fbae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085771526051:android:a702082689cbfbbd7f3416",
+        "android_client_info": {
+          "package_name": "com.example.vetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085771526051-lld6a488oueop5s8mq7pos67ta26c429.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA80DakmRl-DGwu_Gbkxcla5DcA-mFoY2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085771526051-lld6a488oueop5s8mq7pos67ta26c429.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
